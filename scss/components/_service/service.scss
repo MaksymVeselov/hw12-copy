@@ -1,0 +1,14 @@
+.first_service{
+   width: 50%;
+   display: flex;
+   flex-wrap: wrap;
+   .text{
+      width: 90%;
+   }
+   .images{
+      width: 10%;
+      img{
+         
+      }
+   }
+}
